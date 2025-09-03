@@ -1,4 +1,4 @@
-# Simulateur de Café ☕
+# Simulateur de frais Wave Senegal 📱
 
 Un programme Python qui simule les frais d'une transaction via Wave Senegal 📱
 
